@@ -1,0 +1,14 @@
+.body {
+
+	background: rgb(33,32,96);
+	background: linear-gradient(17deg, rgba(33,32,96,1) 46%, rgba(31,25,82,1) 46%);
+}	
+.schedule {
+
+	height: 80px;
+}	
+
+.text_warning {
+
+	color: #fbd513;
+}
